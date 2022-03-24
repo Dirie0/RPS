@@ -1,0 +1,2 @@
+# RPS
+The aim of this project is to create a game that allows the user to play rock,paper and scissors with a computer. The core logic of this program is to take a user input of rock, paper or scissors which is compared against the randomly computer generated rock, paper or scissors through the use of if and elif statements. This was one of my first ever apps and introduced me to  fundamental python topics in conditional logic, variables, operators, numbers and strings.
