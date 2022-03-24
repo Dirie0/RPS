@@ -1,7 +1,7 @@
 from random import randint
-# print("Rock...")
-# print("Paper...")
-# print("Scissors...")
+print("Rock...")
+print("Paper...")
+print("Scissors...")
 
 player = input("Player, make your move: ").lower()
 rand_num = randint(0,2)
